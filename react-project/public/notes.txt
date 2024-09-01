@@ -1,0 +1,8 @@
+node_modules: full of react and other tools (do not need to worry about) 
+public: folder full of public assets (images,video files,etc) 
+
+App.tsx/css: the default app component
+main.tsx: Entry point for your React app; it initializes and renders the root component to the DOM 
+index.css: Global style for entire app
+ 
+.tsx for any react components (uppercase)
